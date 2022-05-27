@@ -98,7 +98,7 @@ def main_app(name):
                                                 
                     wb.save("Attendance.xlsx")
                     wb.close
-                    # itera+=1
+                    itera=2
                  
                     cv2.waitKey(2500)
                     if chin:
